@@ -1,2 +1,4 @@
 # vagrant-ubuntu
-Simple vagrant provisioning of Ubuntu machine
+
+  * Ubuntu 18.04
+  * 4gb, 2cpu
